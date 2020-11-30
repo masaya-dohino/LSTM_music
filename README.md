@@ -2,7 +2,7 @@
 # LSTMを用いた自動音楽生成
 目的：VAEよりも表現の幅を求める。LSTMニューラルネットワークアーキテクチャを用いて、入力楽曲のデータの特徴を捉えた音楽を生成する。
 
-jupyter notebookが表示されないときは nbviewer(https://nbviewer.jupyter.org/)で見る。
+jupyter notebookが表示されないときは nbviewer( https://nbviewer.jupyter.org/ )で見る。
 
 
 ## LSTM（Long Short-Term Memory）とは
